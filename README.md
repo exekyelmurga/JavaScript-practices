@@ -1,6 +1,3 @@
+# JavaScript practices
 
-TECHNICAL TEST
-
-
-I'm Ezequiel Murga Pereyra and it's my technical test.
-In order to initialize this test type in the console: npm install and npm test
+I'm Ezequiel and this is a repository where I push my solutions to diferents exercises.
