@@ -1,7 +1,7 @@
 {
-  "name": "elva-ai-test",
+  "name": "javascript_exercises",
   "version": "1.0.0",
-  "description": "ELVA AI INTERMEDIATE JAVASCRIPT\r TECHNICAL TEST N°1",
+  "description": "",
   "main": "letterCombinations.js",
   "scripts": {
     "test": "jest"
